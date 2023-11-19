@@ -1,0 +1,13 @@
+{
+  "name": "file-system-api-wrapper",
+  "version": "0.1",
+  "description": "FileSystemApi wrapper, to make it easier to use",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "dependencies": {
+    "@types/wicg-file-system-access": "^2023.10.3"
+  }
+}
